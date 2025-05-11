@@ -1,0 +1,5 @@
+sudo apt-get install python3-tk
+sudo python3 -m pip install --upgrade pip
+sudo python3 -m pip install pillow --break-system-packages
+sudo python3 -m pip install --upgrade --force-reinstall pillow --break-system-packages
+sudo python3 -m pip install supabase --break-system-packages
